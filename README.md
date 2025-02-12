@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[ReadMe (1).md](https://github.com/user-attachments/files/18771104/ReadMe.1.md)# 💫 About Me:
-Hi there! 👋<br>I'm Pravesh, a Computer Science Engineering student <br>with a passion for learning and building things. <br>Currently, I'm diving deep into Web Development <br>and mastering Data Structures and Algorithms. 🚀<br><br>🌱 What I'm Learning<br>Web Development: Exploring front-end and back-end technologies to build interactive and responsive web applications.<br>Data Structures and Algorithms: Enhancing my problem-solving skills and preparing for coding interviews.<br>⚡ Fun Fact<br>I believe in continuous learning and love experimenting with new technologies!
+[ReadMe (1).md](https://github.com/user-attachments/files/18771104/ReadMe.1.md)#  
+👋<br>I'm Pravesh, a Computer Science Engineering student <br>with a passion for learning and building things. <br>Currently, I'm diving deep into Web Development <br>and mastering Data Structures and Algorithms. 🚀<br><br>🌱 What I'm Learning<br>Web Development: Exploring front-end and back-end technologies to build interactive and responsive web applications.<br>Data Structures and Algorithms: Enhancing my problem-solving skills and preparing for coding interviews.<br>⚡ Fun Fact<br>I believe in continuous learning and love experimenting with new technologies!
 
 
 ## 🌐 Socials:
